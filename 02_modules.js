@@ -1,0 +1,16 @@
+//Modules
+//commonJs,every file is module(by defult)
+//modules -encaspulated code (only share minimum)
+const names = require("./03_first_module")
+const sayHi = require("./04_second_module")
+console.log(names)
+const sayHii = require("./04_second_module")
+
+console.log(sayHii)
+// sayHi.sayHi("susan")
+// sayHi.sayHi(names.john)
+// sayHi.sayHi(names.peter)
+// sayHi.sayBi()
+// const data = require("./app.js")
+console.log(data)
+require("./07_mind_granade")

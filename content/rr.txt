@@ -1,0 +1,2 @@
+and The text  is getting appended = = > Hello this is first text file
+ and  This is the second file
